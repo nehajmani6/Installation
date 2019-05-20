@@ -12,6 +12,8 @@ sudo mysqladmin password admin
 
 #=============================
 #temp it is for learning purpose
+#great Work
+#lets try more
 #sudo mysql -u root mysql
 #============================
 
