@@ -11,7 +11,7 @@ sudo apt-get install mysql-server -y
 sudo mysqladmin password admin
 
 #=============================
-#temp
+#temp it is for learning purpose
 #sudo mysql -u root mysql
 #============================
 
